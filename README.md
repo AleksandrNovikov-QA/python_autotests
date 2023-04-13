@@ -1,2 +1,2 @@
-# Python-Pytest-Requests-
-Автотесты Python + Pytest + Requests 
+# python_autotests
+Пример автотестов Python + Pytest + Requests 
